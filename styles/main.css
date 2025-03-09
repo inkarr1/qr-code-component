@@ -48,8 +48,6 @@ img {
 
 .cards-container {
     display: grid;
-    /* gap: var(--spacing-200);
-    grid-template-columns: repeat(auto-fit, minmax(min(100%,320px),1fr)); */
     margin: 0 1.719rem;
 
 }
